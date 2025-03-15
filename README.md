@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul  
 
-<!--
-**rdvs/rdvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Sr. Engineering Manager | Tech Enthusiast**  
+💡 Passionate about **scalable architectures and high-performing teams**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 **About Me**
+- ✅ **10+ years of experience** in **software engineering & leadership**  
+- 🏗️ **Expert in Scalable Architectures, Security, API Design & Cloud Technologies**  
+- 📢 **Engineering Mentor** – Enabling teams to build & scale impactful products  
+
+---
+
+## 💼 **Experience**
+### 🏥 **Orange Health Labs** *(Current)*
+- Leading **product engineering & architecture** for healthcare solutions
+- Creating **Orange Health's new D2C brand** to expand direct-to-consumer healthcare services
+- Developing **Smart Profile** – A full-stack diagnostic solution that creates user profiles based on their data, history, and health trends
+- Building **NeO Smart Report** – AI-driven **smart health reports** from diagnostic data (https://www.youtube.com/watch?v=SDfSUj7EcOI&ab_channel=OrangeHealthLabs)
+
+### 🏥 **Practo (7+ Years)**
+- Built **Practo Search & Feedback** to improve healthcare discovery (Marketplace Model)  
+- Developed **Practo Online Consult**, a next-gen **Doctor-Patient communication** platform
+- Developed **Practo Pharmacy** from scratch, setup the warehouse and built end 2 end solution 
+- Designed & implemented **Master Data Service** as a central data hub  
+- Developed **fitness & wellness content management** for doctors & patients  
+- Improved application **scalability, usability & performance**  
+
+
+---
+
+## 📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-gupta&show_icons=true&theme=github_dark)  
+
+---
+
+## 📫 **Connect with Me**
+💼 [LinkedIn](https://www.linkedin.com/in/rahul-gupta-69585527/)  
+✉️ Email: your-email@example.com  
+
+---
+
+⭐ **Philosophy:** *"Great teams build great products. Leadership is about enabling them to do their best work."*
+⭐ **Fun Fact:** I love exploring new tech trends in **AI, healthcare tech, and system architecture.** 🚀
