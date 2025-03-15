@@ -8,7 +8,8 @@
 ## 🎯 **About Me**
 - ✅ **10+ years of experience** in **software engineering & leadership**  
 - 🏗️ **Expert in Scalable Architectures, Security, API Design & Cloud Technologies**  
-- 📢 **Engineering Mentor** – Enabling teams to build & scale impactful products  
+- 📢 **Engineering Mentor** – Enabling teams to build & scale impactful products
+- 💬 **Ask me** anything!
 
 ---
 
@@ -31,15 +32,15 @@
 ---
 
 ## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-gupta&show_icons=true&theme=github_dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdvs&show_icons=true&count_private=true&theme=github_dark)
 
 ---
 
 ## 📫 **Connect with Me**
 💼 [LinkedIn](https://www.linkedin.com/in/rahul-gupta-69585527/)  
-✉️ Email: your-email@example.com  
+✉️ Email: rahul.gupta963@gmail.com
 
 ---
 
-⭐ **Philosophy:** *"Great teams build great products. Leadership is about enabling them to do their best work."*
-⭐ **Fun Fact:** I love exploring new tech trends in **AI, healthcare tech, and system architecture.** 🚀
+⭐ **Philosophy:** *"Great teams build great products. Leadership is about enabling them to do their best work."*  
+⭐ **Fun Fact:** I love exploring new tech trends in **AI, healthcare tech, and system architecture.** 🚀  
