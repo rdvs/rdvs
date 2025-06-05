@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul  
 
-🚀 **Sr. Engineering Manager | Tech Enthusiast**  
+🚀 **Associate Director Engineering | Tech Enthusiast**  
 💡 Passionate about **scalable architectures and high-performing teams**  
 
 ---
